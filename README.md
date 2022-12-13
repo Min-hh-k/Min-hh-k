@@ -1,16 +1,19 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KIM%MIN_HYEOK&fontSize=70&animation=fadeIn)
 
-<!--
-**Min-hh-k/Min-hh-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<h2>👩🏻‍💻 Tech Stack</h2>
+<h3>use</h3>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor="white"/></a>&nbsp
+</p>
+<p>
+<hr/>
+<h4 align="center">📞 Contact 📞</h4>
+<p align="center">
+  <a href="https://minhhk.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-EB4C16?style=flat-square&logo=Tistory&logoColor=white&link=https://paksubeen.tistory.com/"/></a>&nbsp
+  <a href="https://www.instagram.com/ndb_m.hhk/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ndb_m.hhk/"/></a>&nbsp
+  <a href="mailto:alszn2222@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=alszn2222@naver.gmail"/></a>
+</p>
