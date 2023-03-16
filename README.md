@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KIM%MIN_HYEOK&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=K_Min-hh&fontSize=70&animation=fadeIn)
 
   
 <h2>👩🏻‍💻 Tech Stack</h2>
@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor="white"/></a>&nbsp
+<img src="https://img.shields.io/badge/redux-7146B3?style=for-the-badge&logo=redux&logoColor="white"/></a>&nbsp
+                                                                                                    
 </p>
 <p>
 <hr/>
