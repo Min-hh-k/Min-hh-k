@@ -9,12 +9,9 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor="white"/></a>&nbsp
 <img src="https://img.shields.io/badge/redux-7146B3?style=for-the-badge&logo=redux&logoColor="white"/></a>&nbsp
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />&nbsp
-</br>
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/git-E34C26?style=for-the-badge&logo=git&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/figma-FBD8D8?style=for-the-badge&logo=figma&logoColor=white" />
 
 
