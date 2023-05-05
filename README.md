@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/redux-7146B3?style=for-the-badge&logo=redux&logoColor="white"/></a>&nbsp
 <img src="https://img.shields.io/badge/git-E34C26?style=for-the-badge&logo=git&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">&nbsp
 <img src="https://img.shields.io/badge/figma-FBD8D8?style=for-the-badge&logo=figma&logoColor=white" />
 
 
