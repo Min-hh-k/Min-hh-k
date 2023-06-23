@@ -22,10 +22,15 @@
 
 </br>
 
-<h3  align="center">studying</h3>
+<!-- <h3  align="center">studying</h3> -->
 <p  align="center">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=Next.js&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-0074C2?style=flat-square&logo=typescript&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">&nbsp
+<img src="https://img.shields.io/badge/Zustand-blueviolet?style=flat-square&logo=Zustand&logoColor=white">&nbsp
+
+<!-- <img src="https://img.shields.io/badge/typescript-0074C2?style=flat-square&logo=typescript&logoColor=white">&nbsp -->
 </p>
 
 <p>
