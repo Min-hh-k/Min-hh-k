@@ -32,14 +32,17 @@
 </p>
 
 
-<p  align="center">
-</br>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=ec2&logoColor=white" />
-<img src="https://img.shields.io/badge/ELB-FF9900?style=flat-square&logo=elb&logoColor=white" />
-<img src="https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=s3&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=cloudfront&logoColor=white" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/MyBatis-FF2D20?style=flat-square&logo=braintree&logoColor=white" alt="MyBatis" />
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
+
 
 
 <p>
